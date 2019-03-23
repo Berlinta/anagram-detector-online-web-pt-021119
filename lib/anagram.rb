@@ -15,7 +15,7 @@ class Anagram
     #Two arrays are equal if they contain the same elements, in the same order.
     #Use `.sort`, this will help in the comparison
     
-  def 
+  def same()
   
   
 
