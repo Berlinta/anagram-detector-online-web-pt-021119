@@ -1,4 +1,12 @@
 class Anagaram
+  
+  attr_accessor :words
+  
+  def Initialize(word)
+    @word = word
+  end
+
+end
 
 
 
