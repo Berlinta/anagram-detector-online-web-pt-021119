@@ -6,8 +6,8 @@ class Anagram
     @word = word
   end
 
-  def match(array_of_words)
-    array_of_words.select do |expresion|
+  def match(words_array)
+    words_array.select do |expresion|
       expresion.split("").sort == @word.split("").sort
     end
   end
