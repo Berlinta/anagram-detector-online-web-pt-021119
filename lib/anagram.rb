@@ -16,7 +16,7 @@ class Anagram
     #Use `.sort`, this will help in the comparison
     
   def same(array_of_words)
-    
+    array_of_words.
   end
   
   
