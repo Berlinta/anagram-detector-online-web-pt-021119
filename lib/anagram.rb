@@ -1,4 +1,4 @@
-class Anagaram
+class Anagram
   
   attr_accessor :words
   
