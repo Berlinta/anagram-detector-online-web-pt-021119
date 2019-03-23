@@ -11,19 +11,4 @@ class Anagram
       expresion.split("").sort == @word.split("").sort
     end
   end
-  
-  
-
 end
-
-
-
-
-
-
-
-
-
-
-
-# Your code goes here!
