@@ -17,7 +17,7 @@ class Anagram
     
   def same(array_of_words)
     array_of_words.select do |expresion|
-      expresion.split("")
+      expresion.split("").sort ==
   end
   
   
